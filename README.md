@@ -12,5 +12,5 @@ make
 
 ## hacking on it
 
-Change the function `[report_remote_reference](progress.py#L1)` inside
-`[progress.py](progress.py)` to do whatever you want with the string.
+Change the function [`report_remote_reference`](progress.py#L1) inside
+[`progress.py`](progress.py) to do whatever you want with the string.
